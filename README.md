@@ -21,19 +21,7 @@ Dataset ini terdiri dari tiga kolom: `number_courses`, `time_study`, dan `Marks`
 Dataset ini dapat digunakan untuk menganalisis hubungan antara jumlah kursus, waktu belajar, dan prestasi akademik siswa. Misalnya, Anda dapat menjelajahi apakah ada hubungan antara jumlah kursus yang diambil dan prestasi akademik, atau apakah ada pola yang dapat ditemukan dalam waktu belajar dan prestasi akademik siswa. Analisis semacam itu dapat memberikan wawasan yang berharga bagi pendidik dan pengambil keputusan pendidikan untuk meningkatkan kualitas pembelajaran dan hasil akademik siswa.
 
 # Virtual Environment
-  - Code ini dijalankan di windows dengan membuat Virtual Environment:
-'''
-python -m venv venv
-'''
-  - Install requirements di bawah ini:
-'''
-pip install -r requirements.txt
-'''
-  - Mengaktifkan Virtual Environment:
-'''
-venv\Scripts\activate
-'''
-  - Optional:
-'''
-deactivate
-'''
+  - Code ini dijalankan di windows dengan membuat Virtual Environment: python -m venv venv
+  - Install requirements di bawah ini: pip install -r requirements.txt
+  - Mengaktifkan Virtual Environment: venv\Scripts\activate
+  - Optional: deactivate
