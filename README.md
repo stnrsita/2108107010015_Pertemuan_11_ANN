@@ -38,13 +38,17 @@ Pada hasil klasifikasi di atas, terlihat bahwa model yang dibangun menggunakan a
 Akurasi Support Vector Machine :
 
 Root Mean Squared Error (RMSE): 4.79727415341508
+
 Mean Absolute Error (MAE): 3.875983538503933
+
 R^2 Score (R^2): 0.8867359859912022
 
 Akurasi Artificial Neural Network
 
 Root Mean Square Error (RMSE): 4.013239946067064
+
 Mean Absolute Error (MAE): 3.24169791507721
+
 R-squared (R^2): 0.9076470291782653
 
 Dalam perbandingan metrik evaluasi yang terdiri dari Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), dan R-squared (R^2), model ANN memiliki kinerja yang sedikit lebih baik daripada model SVM. Meskipun perbedaannya mungkin tidak signifikan, model ANN mampu menghasilkan prediksi dengan tingkat akurasi yang lebih tinggi, menunjukkan kemampuan yang lebih baik dalam memodelkan hubungan antara fitur dan target dalam dataset yang diberikan.
