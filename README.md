@@ -28,9 +28,9 @@ Dataset ini dapat digunakan untuk menganalisis hubungan antara jumlah kursus, wa
 
 # Hasil Klasifikasi dan Regresi
 ## 1. Klasifikasi
-Akurasi Support Vector Machine : 0.864
+  - Akurasi Support Vector Machine : 0.864
 
-Akurasi Artificial Neural Network : 0.85
+  - Akurasi Artificial Neural Network : 0.85
 
 Pada hasil klasifikasi di atas, terlihat bahwa model yang dibangun menggunakan algoritma Artificial Neural Network (ANN) memiliki tingkat akurasi yang sedikit lebih rendah dibandingkan dengan model yang menggunakan Support Vector Machine (SVM). Dengan demikian, untuk masalah klasifikasi yang sama, SVM mungkin lebih diunggulkan karena kemampuannya untuk menghasilkan prediksi yang lebih akurat.
 
