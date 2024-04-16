@@ -22,13 +22,17 @@ Dataset ini dapat digunakan untuk menganalisis hubungan antara jumlah kursus, wa
 
 # Virtual Environment
 Code ini dijalankan di windows dengan membuat Virtual Environment
+
 python -m venv venv
 
-Install Following Requirements
+Install requirements di bawah ini
+
 pip install -r requirements.txt
 
-Activate Virtual Environment
+Mengaktifkan Virtual Environment
+
 venv\Scripts\activate
 
 OPTIONAL: Deactivate
+
 deactivate
